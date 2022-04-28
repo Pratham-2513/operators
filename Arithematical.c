@@ -9,6 +9,6 @@ int main()
     product=x*y;
     division=x/y;
     modulus=x%y;
-    printf("The sum of x and y is %d\nThe difference of x and y is %d\nThe product of x and y is %d\nThe quotitent of x and y is %.2f\nThe remainder of x and y is %d", sum,difference,product,division);
+    printf("The sum of x and y is %d\nThe difference of x and y is %d\nThe product of x and y is %d\nThe quotitent of x and y is %.2f\nThe remainder of x and y is %d", sum,difference,product,division,modulus);
     return 0;
 }
